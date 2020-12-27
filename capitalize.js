@@ -7,7 +7,7 @@
  * @next jaden-case
  */
 function capitalize(str) {
-   return str.toUpperCase();
+   return str.charAt(0).toUpperCase();
 }
 // You must write your own tests
 throw Error('No tests !');
