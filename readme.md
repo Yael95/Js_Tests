@@ -3,7 +3,7 @@
 
 test
 # download the code locally
-git clone https://github.com/Cyberleet/Js_Tests.git
+git clone https://github.com/Cyberleet/Js_Tests.git js-training
 
 # change working directory to the newly cloned repository
 cd js-training
